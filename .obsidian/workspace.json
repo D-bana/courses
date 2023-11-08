@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "SoftSec/Paper Study/Covert Channels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d673604ae6e76814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
+                "file": "SoftSec/Paper Study/Covert Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
+                "file": "SoftSec/Paper Study/Covert Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md"
+                "file": "SoftSec/Paper Study/Covert Channels.md"
               }
             }
           }
