@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoftSec/Paper Study/Covert Channels.md",
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftSec/Paper Study/Covert Channels.md",
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftSec/Paper Study/Covert Channels.md"
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a0e9e6144bf986",
+  "active": "d673604ae6e76814",
   "lastOpenFiles": [
-    "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
     "SoftSec/Paper Study/Covert Channels.md",
+    "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
     "SoftSec/Paper Study",
     "SoftSec",
     "Algo/Trying out shii.md",
