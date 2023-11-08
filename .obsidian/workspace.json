@@ -11,8 +11,12 @@
             "id": "72a0e9e6144bf986",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SoftSec/Paper Study/Pool Party - Exploiting Browser Resource Pools for Web Tracking.md"
+              }
             }
           }
         ]
